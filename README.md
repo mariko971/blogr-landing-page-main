@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mariko971/blogr-landing-page-main.git]()
-- Live Site URL: [https://mariko971.github.io/blogr-landing-page-main/]()
+- Solution URL: [](https://github.com/mariko971/blogr-landing-page-main.git)
+- Live Site URL: [](https://mariko971.github.io/blogr-landing-page-main/)
 
 ## My process
 
